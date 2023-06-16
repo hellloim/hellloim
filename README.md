@@ -1,6 +1,6 @@
 Hi there , my name is Oskar
 #### I am the CO-Owner at casperdevbussiness
-![helloim](https://static.wixstatic.com/media/5529e8_74e192e0a1c346a6905a4d7a19e429bc~mv2.jpg/v1/fill/w_220,h_220,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/YVW.jpg)
+![hellloim](https://static.wixstatic.com/media/5529e8_74e192e0a1c346a6905a4d7a19e429bc~mv2.jpg/v1/fill/w_220,h_220,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/YVW.jpg)
 
  I’m currently working for casperdevbussiness 
 
@@ -27,4 +27,4 @@ Hi there , my name is Oskar
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloim)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellloim)](https://github.com/anuraghazra/github-readme-stats)
