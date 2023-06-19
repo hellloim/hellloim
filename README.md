@@ -4,7 +4,7 @@ Hi there , my name is Oskar
 
  I’m currently working for casperdevbussiness 
 
- I’m currently FiveM developing, ethical hacker and making bots
+ I’m currently FiveM developing, ethical hacker and making bots ( not doing bad stuff ethical hacker means that you reverse coding viruses and stuff)
 
  Ask me about anything
 
